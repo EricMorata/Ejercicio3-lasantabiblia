@@ -1,2 +1,2 @@
-# Ejercicio3-lasantabiblia
-ejercicio 3 1dam-m angel, eric, alex, dani
+# EJERCICIO3_LASANTABIBLIA
+ ejercicio numero 3 1dam Eric, Alex, Dani, Angel
