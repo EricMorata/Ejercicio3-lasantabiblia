@@ -18,10 +18,10 @@ public class EjercicioDeCLase3 {
 		System.out.println("Uno empezo a descontrolarse y a decir que no iba a ver ni un puto video mas sin que le trajeran una putisima cerveza que estaba sediento");
 		System.out.println("Cuando le dijeron que no apago el ordenador y los profesores enmascarados fueron con sus pollos y le dieron una paliza hasta dejarlo muerto"); //bueno un poco loco pero aqui estan msi 10 líneas, si quereis cambiar algo no dudeis en hacerlo ;) (alejandro)
 		System.out.println("Nos quedamos ojipláticos cuando aparecieron 4 enanos con un ataud adornado como una caja de regalos, todos ellos disfrazado como el cabronazo de SAW");
-		System.out.println("a los 7 minutos, otros dos compañeros empezaron a tener ataques epilépticos....se caen al suelo y bailaron breakdance y espicharon");
+		System.out.println("a los 7 minutos, otros dos compañeros empezaron a tener ataques epilépticos....se caen al suelo, bailaron breakdance y espicharon");
 		System.out.println("ya solo quedabamos 27 inocentes alumnos sometidos a tercer vídeo del malvado profesor de programación cuando sin venir a cuento....");
 		System.out.println(" se fue la luz, cosa ya habitual y como ya habían caído 3 de nuestros compañeros, con la visión de Predator de nuestro profesor nos anunció...");
-	
+		System.out.println("¡ queda finalizado el primer juego, salgan 10 minutos a descansar y a la vuelta les revelaremos el segundo juego!. Nos levantamos y salimos como pollos sin cabeza de aquel siniestro lugar"); // chicos con esto ya sería mi décima línea(Ángel), espero que nadie esté escribiendo a la vez que yo o entramos en conflicto, en ese caso, que prevalezca el de ambas por favor. Buen resto de finde.
 	
 	
 	
