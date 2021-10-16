@@ -10,6 +10,7 @@ public class EjercicioDeCLase3 {
 		System.out.println("Justo en mitad del viaje empezo a salir un gas por el ventilador y me quede frito (la verdad es que me vino de puta madre)");
 		System.out.println("al despertarme me encontre con todos los demas compañeros de CENEC y empezamos a preguntarnos que pasaba");
 		System.out.println("cuando empezaba a montarse escanlado empezaron a entrar unas personas con caretas y pollos de juguete y justo detras estaba él, el maestro de programacion con su careta de caballo");
+		System.out.println("el maestro empezo a explicarnos que es lo que pasaba, que nos habia llevado ahi para conseguir aprobados de programacion por estar todos suspensos");
 		
 	}
 }
