@@ -9,6 +9,7 @@ public class EjercicioDeCLase3 {
 		System.out.println("cogió el autobús y mientras se rascaba el ojete del culo, se preguntaba, ¿de qué tratará el juego?"); //bueno chicos, he escrito las 5 primeras líneas de la historia, subido por separado para que os salgan varías versiones. OS recuerdo que son 10 por persona, pondré otras 5 el domingo por donde lo hayais dejado. Por cierto la historia es una chorrada, poned coñas y para delante.
 		System.out.println("Justo en mitad del viaje empezo a salir un gas por el ventilador y me quede frito (la verdad es que me vino de puta madre)");
 		System.out.println("al despertarme me encontre con todos los demas compañeros de CENEC y empezamos a preguntarnos que pasaba");
+		System.out.println("cuando empezaba a montarse escanlado empezaron a entrar unas personas con caretas y pollos de juguete y justo detras estaba él, el maestro de programacion con su careta de caballo");
 		
 	}
 }
