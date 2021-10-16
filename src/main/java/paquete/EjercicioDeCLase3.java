@@ -14,6 +14,7 @@ public class EjercicioDeCLase3 {
 		System.out.println("queria que jugaramos a varios juegos desesperantes con los que entraban ganas de lanzar el ordenador por la ventana");
 		System.out.println("y nosotros creyendo que ya habiamos tenido suficientes putos jueguecitos despues de estar 2 horas con cada nivel, lo que nos espera...");
 		System.out.println("con el primer juego nos queria poner a ver 3 videos de 2 horas seguidas, quien nos las aguantara tendría un horroroso final que no nos quiso desvelar");
+		System.out.println("Al principio todo iba bien... Cada uno con su ordenador comiendose unos nachos, aunque a la mitad del tiempo empezo a joderse todo");
 		
 	}
 }
