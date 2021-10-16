@@ -12,6 +12,6 @@ public class EjercicioDeCLase3 {
 		System.out.println("cuando empezaba a montarse escanlado empezaron a entrar unas personas con caretas y pollos de juguete y justo detras estaba él, el maestro de programacion con su careta de caballo");
 		System.out.println("el maestro empezo a explicarnos que es lo que pasaba, que nos habia llevado ahi para conseguir aprobados de programacion por estar todos suspensos");
 		System.out.println("queria que jugaramos a varios juegos desesperantes con los que entraban ganas de lanzar el ordenador por la ventana");
-		
+		System.out.println("y nosotros creyendo que ya habiamos tenido suficientes putos jueguecitos despues de estar 2 horas con cada nivel, lo que nos espera..."); //dejo por auqi mis primeras 5 lineas, cuando tenga un poco de tiempo le echo un vistazo a lo qeu lleveis y meto las otras 5 :p
 	}
 }
