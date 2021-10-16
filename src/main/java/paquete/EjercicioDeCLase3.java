@@ -20,7 +20,7 @@ public class EjercicioDeCLase3 {
 		System.out.println("Nos quedamos ojipláticos cuando aparecieron 4 enanos con un ataud adornado como una caja de regalos, todos ellos disfrazado como el cabronazo de SAW");
 		System.out.println("a los 7 minutos, otros dos compañeros empezaron a tener ataques epilépticos....se caen al suelo y bailaron breakdance y espicharon");
 		System.out.println("ya solo quedabamos 27 inocentes alumnos sometidos a tercer vídeo del malvado profesor de programación cuando sin venir a cuento....");
-	
+		System.out.println(" se fue la luz, cosa ya habitual y como ya habían caído 3 de nuestros compañeros, con la visión de Predator de nuestro profesor nos anunció...");
 	
 	
 	
