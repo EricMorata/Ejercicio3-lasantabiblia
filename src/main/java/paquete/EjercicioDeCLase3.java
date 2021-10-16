@@ -11,6 +11,7 @@ public class EjercicioDeCLase3 {
 		System.out.println("al despertarme me encontre con todos los demas compañeros de CENEC y empezamos a preguntarnos que pasaba");
 		System.out.println("cuando empezaba a montarse escanlado empezaron a entrar unas personas con caretas y pollos de juguete y justo detras estaba él, el maestro de programacion con su careta de caballo");
 		System.out.println("el maestro empezo a explicarnos que es lo que pasaba, que nos habia llevado ahi para conseguir aprobados de programacion por estar todos suspensos");
+		System.out.println("queria que jugaramos a varios juegos desesperantes con los que entraban ganas de lanzar el ordenador por la ventana");
 		
 	}
 }
