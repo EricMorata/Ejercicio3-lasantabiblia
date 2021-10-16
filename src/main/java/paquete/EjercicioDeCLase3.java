@@ -15,6 +15,7 @@ public class EjercicioDeCLase3 {
 		System.out.println("y nosotros creyendo que ya habiamos tenido suficientes putos jueguecitos despues de estar 2 horas con cada nivel, lo que nos espera...");
 		System.out.println("con el primer juego nos queria poner a ver 3 videos de 2 horas seguidas, quien nos las aguantara tendría un horroroso final que no nos quiso desvelar");
 		System.out.println("Al principio todo iba bien... Cada uno con su ordenador comiendose unos nachos, aunque a la mitad del tiempo empezo a joderse todo");
+		System.out.println("Uno empezo a descontrolarse y a decir que no iba a ver ni un puto video mas sin que le trajeran una putisima cerveza que estaba sediento");
 		
 	}
 }
