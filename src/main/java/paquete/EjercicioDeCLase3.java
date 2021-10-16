@@ -17,5 +17,13 @@ public class EjercicioDeCLase3 {
 		System.out.println("Al principio todo iba bien... Cada uno con su ordenador comiendose unos nachos, aunque a la mitad del tiempo empezo a joderse todo");
 		System.out.println("Uno empezo a descontrolarse y a decir que no iba a ver ni un puto video mas sin que le trajeran una putisima cerveza que estaba sediento");
 		System.out.println("Cuando le dijeron que no apago el ordenador y los profesores enmascarados fueron con sus pollos y le dieron una paliza hasta dejarlo muerto"); //bueno un poco loco pero aqui estan msi 10 líneas, si quereis cambiar algo no dudeis en hacerlo ;) (alejandro)
+		System.out.println("Nos quedamos ojipláticos cuando aparecieron 4 enanos con un ataud adornado como una caja de regalos, todos ellos disfrazado como el cabronazo de SAW");
+	
+	
+	
+	
+	
+	
+	
 	}
 }
