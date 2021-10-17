@@ -25,6 +25,7 @@ public class EjercicioDeCLase3 {
 		System.out.println("Una vez finalizados esos 10 minutos en los cuales todos nos mirabamos pensando en quien sería el siguiente en caer, nos dirigimos de nuevo a esas terribles instalaciones");//comenzando el desenlace de la historia (Eric)
 		System.out.println("ya dentros de esas instalaciones, vinieron unos seres de otra galaxia a colocar paneles y encerrarnos aún más en ese sitio el cual ya olía a chotocabra");
 		System.out.println("el profesor centauro se dirijió a nosotros y nos propuso el segundo juego, que consistia en descifrar un lenguaje venido de algún rincón de este mundo al cual lo llamaban JAVA");
+		System.out.println("este juego trajo conflictos a la vez que unio a los participantes del curso puesto que si uno no avanzaba en la comprensión el resto moriria de una forma un tanto singular a pellizcos");
 	
 	
 	}
