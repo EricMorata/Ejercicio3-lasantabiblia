@@ -23,7 +23,7 @@ public class EjercicioDeCLase3 {
 		System.out.println(" se fue la luz, cosa ya habitual y como ya habían caído 3 de nuestros compañeros, con la visión de Predator de nuestro profesor nos anunció...");
 		System.out.println("¡ queda finalizado el primer juego, salgan 10 minutos a descansar y a la vuelta les revelaremos el segundo juego!. Nos levantamos y salimos como pollos sin cabeza de aquel siniestro lugar"); // chicos con esto ya sería mi décima línea(Ángel), espero que nadie esté escribiendo a la vez que yo o entramos en conflicto, en ese caso, que prevalezca el de ambas por favor. Buen resto de finde.
 		System.out.println("Una vez finalizados esos 10 minutos en los cuales todos nos mirabamos pensando en quien sería el siguiente en caer, nos dirigimos de nuevo a esas terribles instalaciones");//comenzando el desenlace de la historia (Eric)
-		
+		System.out.println("ya dentros de esas instalaciones, vinieron unos seres de otra galaxia a colocar paneles y encerrarnos aún más en ese sitio el cual ya olía a chotocabra");
 	
 	
 	}
