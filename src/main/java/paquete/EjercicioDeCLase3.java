@@ -24,6 +24,7 @@ public class EjercicioDeCLase3 {
 		System.out.println("¡ queda finalizado el primer juego, salgan 10 minutos a descansar y a la vuelta les revelaremos el segundo juego!. Nos levantamos y salimos como pollos sin cabeza de aquel siniestro lugar"); // chicos con esto ya sería mi décima línea(Ángel), espero que nadie esté escribiendo a la vez que yo o entramos en conflicto, en ese caso, que prevalezca el de ambas por favor. Buen resto de finde.
 		System.out.println("Una vez finalizados esos 10 minutos en los cuales todos nos mirabamos pensando en quien sería el siguiente en caer, nos dirigimos de nuevo a esas terribles instalaciones");//comenzando el desenlace de la historia (Eric)
 		System.out.println("ya dentros de esas instalaciones, vinieron unos seres de otra galaxia a colocar paneles y encerrarnos aún más en ese sitio el cual ya olía a chotocabra");
+		System.out.println("el profesor centauro se dirijió a nosotros y nos propuso el segundo juego, que consistia en descifrar un lenguaje venido de algún rincón de este mundo al cual lo llamaban JAVA");
 	
 	
 	}
