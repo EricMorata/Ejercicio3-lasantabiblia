@@ -26,9 +26,10 @@ public class EjercicioDeCLase3 {
 		System.out.println("ya dentros de esas instalaciones, vinieron unos seres de otra galaxia a colocar paneles y encerrarnos aún más en ese sitio el cual ya olía a chotocabra");
 		System.out.println("el profesor centauro se dirijió a nosotros y nos propuso el segundo juego, que consistia en descifrar un lenguaje venido de algún rincón de este mundo al cual lo llamaban JAVA");
 		System.out.println("este juego trajo conflictos a la vez que unió a los participantes del curso ya que que si uno no avanzaba en la comprensión, el resto moriría de una forma un tanto singular; a pellizcos");
-		System.out.println("tras la muerte de todos los alumnos, ya que los conflictos lo arreglaron a pellizcos, .quedamos 4 alumnos y el profesor centauro");
-		System.out.println("estos 4 alumnos prosiguieron aprendiendo el lenguaje JAVA y a usar repositorios sin llegar a conflictos ");
+		System.out.println("tras la muerte de todos los alumnos, ya que los conflictos lo arreglaron a pellizcos, .quedamos 5 alumnos y el profesor centauro");
+		System.out.println("estos 5 alumnos prosiguieron aprendiendo el lenguaje JAVA y a usar repositorios sin llegar a conflictos ");
 		System.out.println("pero todo iba bien hasta que el profesor centauro mandó el siguiente juego: programar en una gameboycolor una app de citas");
 		System.out.println("era ronda eliminatoria y nos daba de plazo 2 días laborales que en el espacio/tiempo de cenec eran 3 horas");
+		System.out.println("los alumnos Eric, Alex, Angel y Dani consiguieron clasificarse y avocaron a x a la muerte, siendo ellos mismo quien tendrian que matarlo");
 	}
 }
