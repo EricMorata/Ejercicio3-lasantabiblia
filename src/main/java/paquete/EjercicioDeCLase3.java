@@ -29,5 +29,6 @@ public class EjercicioDeCLase3 {
 		System.out.println("tras la muerte de todos los alumnos, ya que los conflictos lo arreglaron a pellizcos, .quedamos 4 alumnos y el profesor centauro");
 		System.out.println("estos 4 alumnos prosiguieron aprendiendo el lenguaje JAVA y a usar repositorios sin llegar a conflictos ");
 		System.out.println("pero todo iba bien hasta que el profesor centauro mandó el siguiente juego: programar en una gameboycolor una app de citas");
+		System.out.println("era ronda eliminatoria y nos daba de plazo 2 días laborales que en el espacio/tiempo de cenec eran 3 horas");
 	}
 }
