@@ -27,7 +27,7 @@ public class EjercicioDeCLase3 {
 		System.out.println("el profesor centauro se dirijió a nosotros y nos propuso el segundo juego, que consistia en descifrar un lenguaje venido de algún rincón de este mundo al cual lo llamaban JAVA");
 		System.out.println("este juego trajo conflictos a la vez que unió a los participantes del curso ya que que si uno no avanzaba en la comprensión, el resto moriría de una forma un tanto singular; a pellizcos");
 		System.out.println("tras la muerte de todos los alumnos, ya que los conflictos lo arreglaron a pellizcos, quedamos 4 alumnos y el profesor centauro, y solo me queda decir de una forma que JAVA no lo entenderá,@policia P L E H!!!"); // hasta aquí mi aportación, espero que todos lo hagais antes de la fecha de entrega (Eric)
-	
+	System.out.println("Esos 4 alumnos vieron un mapache conduciendo un autobus...");
 	
 	}
 }
