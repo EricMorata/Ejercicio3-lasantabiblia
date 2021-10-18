@@ -31,5 +31,6 @@ public class EjercicioDeCLase3 {
 		System.out.println("pero todo iba bien hasta que el profesor centauro mandó el siguiente juego: programar en una gameboycolor una app de citas");
 		System.out.println("era ronda eliminatoria y nos daba de plazo 2 días laborales que en el espacio/tiempo de cenec eran 3 horas");
 		System.out.println("los alumnos Eric, Alex, Angel y Dani consiguieron clasificarse y avocaron a x a la muerte, siendo ellos mismo quien tendrian que matarlo");
+		System.out.println("Eric saco de su espalda una espada laser 3000 y rebano el codo de daniel, alex saco un dildo y empalo a x, provocandole un desgarro y Angel con el arco de un violin degollo a x y despues tocó la cancion de tengo un tractor amarillo");
 	}
 }
