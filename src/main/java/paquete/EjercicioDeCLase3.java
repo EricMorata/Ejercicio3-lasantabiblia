@@ -27,7 +27,16 @@ public class EjercicioDeCLase3 {
 		System.out.println("el profesor centauro se dirijiï¿½ a nosotros y nos propuso el segundo juego, que consistia en descifrar un lenguaje venido de algï¿½n rincï¿½n de este mundo al cual lo llamaban JAVA");
 		System.out.println("este juego trajo conflictos a la vez que uniï¿½ a los participantes del curso ya que que si uno no avanzaba en la comprensiï¿½n, el resto morirï¿½a de una forma un tanto singular; a pellizcos");
 		System.out.println("tras la muerte de todos los alumnos, ya que los conflictos lo arreglaron a pellizcos, quedamos 4 alumnos y el profesor centauro, y solo me queda decir de una forma que JAVA no lo entenderï¿½,@policia P L E H!!!"); // hasta aquï¿½ mi aportaciï¿½n, espero que todos lo hagais antes de la fecha de entrega (Eric)
-	System.out.println("Esos 4 alumnos vieron un mapache conduciendo un autobus...");
-	
+		System.out.println("El profesor mandó un nuevo video pero este video era algo turbio porque si entrabas en el no podías salirte");
+		System.out.println("en este video el maestro no tenía nigún tipo de máscara si no que tenía un disfraz (a mi parecer un poco feo y horrible)");
+		System.out.println("El disfraz que tenía puesto era un disfraz de medusa (la fea de las serpientes) y todos nos reiamos de él, pero no sabiamos que algo malo iba a pasar...");
+		System.out.println("ese disfraz hacía lo mismo que la cabeza de medusa, si le mirabas a los ojos te dejaba petrificado, nosotros pensabamos que era una broma pero nos dimos cuenta de que no cuando...");
+		System.out.println("uno de nosotros lo miró y se convirtió en piedra, una vez vimos eso salimos corriendo, ya solo quedabamos 3 y antes de irnos el profesor nos dijo que teníamos que arreglar un error si quieramos que se quitara el disfraz");
+		System.out.println("Una vez fuera de la clase nos fuimos a nuestra casa, teniamos que buscar una solucion al problema para no quedarnos como nuestro compañero");
+		System.out.println("Cada uno en su casa tenia que buscar porque ese disfraz que tenia funcionaba como la cabeza real de medusa (porque era una fumada), buscabamos y buscabamos y no encontramos nada hasta que...");
+		System.out.println("Encontramos en una pagina de la deep web que se podia comprar una cabeza de medusa pero valia un pastizal, asi que hablamos entre todos para ir a robarla");
+		System.out.println("La cabeza estaba escondida en unos almacenes en un poligono, asi que fuimos los 3 a robarla, habia muchos guardias cuidando el almacen asi que teniamos que distraerlos de alguna forma");
+		System.out.println("uno de nosotros tenia que ser el cebo de los guardias para que los otros pudiesen cogerla, asi que me puse un disfraz de moro vendemalacatones y me puse a correr al lado de ellos para que me sigueran");
+		System.out.println("Ahora con los guardias fuera, los otros 2 entraron y cojieron la cabeza, fueron a la clase con la cabeza y miraron a la cabeza del maestro y se neutralizaron las medusas, ellos 2 corrijieron el error y se fueron");//hasta aqui mis 10 lineas, no es recomendable leer, es una fumada xd, Daniel :p
 	}
 }
